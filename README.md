@@ -20,5 +20,11 @@
 
 ## 实用工具
 
+> 放上我的notion链接，给媎妹们参考
 
-
+| 项目 | 地址 |
+| --- | --- |
+| 文书材料 | [https://women-aboard.notion.site/d4c8aafb5bb14e38bd238fad158ed2f7](https://women-aboard.notion.site/d4c8aafb5bb14e38bd238fad158ed2f7) |
+| 语言考试 | [https://women-aboard.notion.site/5a9920c6501242ac8c91268a6a39ed44](https://women-aboard.notion.site/5a9920c6501242ac8c91268a6a39ed44) |
+| 申请经验 | [https://women-aboard.notion.site/3169411e969d4014b71fe153bf484d4b](https://women-aboard.notion.site/3169411e969d4014b71fe153bf484d4b) |
+| 实用工具 | [https://women-aboard.notion.site/898b10d42872486a8da65791fa47d715?v=0938e677fad4410bbc29d0e355b88bec](https://women-aboard.notion.site/898b10d42872486a8da65791fa47d715?v=0938e677fad4410bbc29d0e355b88bec) |
