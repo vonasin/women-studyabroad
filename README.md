@@ -30,7 +30,7 @@
 | 听力 | 王陆听力语料库（待补充） | --- |
 | 阅读 | （b站）Charlie有好好学习 （待补充）| --- |
 | 口语 | （雅思哥）Tara（待补充） | [练习方法](https://github.com/shea-yu/women-studyabroad/issues/1) |
-| 写作 | 顾家北、杜洪波（待补充） | --- |
+| 写作 | Simon、顾家北（待补充） | --- |
 
 
 ### TOEFL
